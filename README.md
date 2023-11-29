@@ -26,4 +26,6 @@ Pode misturar as configurações
 
 
 ## tabelas
-matricula|nome|estado
+matricula | nome | estado
+---|---|---
+123 | Thalis | ativo
