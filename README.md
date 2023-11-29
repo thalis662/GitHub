@@ -22,5 +22,8 @@ Pode misturar as configurações
 
 ### Listas de tarefas
 - [x] Criar página principal
-- [x] Criar página da loja
+- [ ] Criar página da loja
 
+
+## tabelas
+matricula|nome|estado
