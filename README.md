@@ -39,8 +39,3 @@ Ou, podemos colocar um código entre três crases
 Print = "Olá mundo"
 
 ```
-
-## Emoji
-: )
-:Monkey:
-emoticons
