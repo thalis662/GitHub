@@ -15,3 +15,12 @@
 
 Pode misturar as configurações
 
+## Listas
+
+* teste
+- testes
+
+### Listas de tarefas
+- [ ] Criar página principal
+- [ ] Criar página da loja
+
