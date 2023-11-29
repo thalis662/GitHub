@@ -41,6 +41,6 @@ Print = "Olá mundo"
 ```
 
 ## Emoji
-:)
-
+: )
+:Monkey:
 emoticons
