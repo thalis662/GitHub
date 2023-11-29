@@ -32,4 +32,4 @@ matricula | nome | estado
 
 ## Mostrar comando em qualquer linguagem
 
-Olá o comando de exibir na tela do python ´print´ - basta colocar entre crase´´
+Olá o comando de exibir na tela do python `print` - basta colocar entre crase
