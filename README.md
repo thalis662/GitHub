@@ -21,6 +21,6 @@ Pode misturar as configurações
 - testes
 
 ### Listas de tarefas
-- [ ] Criar página principal
+- [v] Criar página principal
 - [ ] Criar página da loja
 
