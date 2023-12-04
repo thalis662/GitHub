@@ -7,11 +7,10 @@
 ## Markdown
 
 
-1. Itálico = *Testando* ou **Testando**
+1. Itálico = *Testando* ou _Testando_
 2. Negrito = **Testando** ou __Testando__
-3. Titulo = É colocado com o simbolo # 
-4. (A quantidade de hastag define o nível do título)
-5. Risco = ~~testando~~
+3. Titulo = É colocado com o simbolo # (A quantidade de hastag define o nível do título)
+4. Risco = ~~testando~~
 
 Pode misturar as configurações
 
